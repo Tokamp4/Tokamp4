@@ -20,6 +20,9 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a></p>
 
-## Reach out to me
+## Reach out to Me
 
-<p><a target="_blank" href="https://www.linkedin.com/in/eduardo-tokarski-a2862b293/?originalSubdomain=ca" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/eduardo-tokarski-a2862b293/?originalSubdomain=ca" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+  <a href = "mailto:eduardo.tokarski.almeida@gmail.com"><img alt="Static Badge" src="https://custom-icon-badges.demolab.com/badge/-eduardo.tokarski.almeida@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"></a>
+</p>
