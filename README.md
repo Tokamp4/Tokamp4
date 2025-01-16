@@ -1,5 +1,10 @@
 # Greetings👋, I'm Eduardo
 
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/eduardo-tokarski-a2862b293/?originalSubdomain=ca" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+  <a href = "mailto:eduardo.tokarski.almeida@gmail.com"><img alt="Static Badge" src="https://custom-icon-badges.demolab.com/badge/-eduardo.tokarski.almeida@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"></a>
+</p>
+
 <p>I'm a passionate software developer with a strong focus on understanding and optimizing the potential of computing technologies. I have developed programming skills across various domains, including web development, database management, and mobile application development. </p>
 
 ## Languages and Tools
@@ -22,9 +27,3 @@
 ## My Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tokamp4&show_icons=true&locale=en" alt="Tokamp4" /></p>
 
-## Reach out to Me
-
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/eduardo-tokarski-a2862b293/?originalSubdomain=ca" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-  <a href = "mailto:eduardo.tokarski.almeida@gmail.com"><img alt="Static Badge" src="https://custom-icon-badges.demolab.com/badge/-eduardo.tokarski.almeida@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"></a>
-</p>
