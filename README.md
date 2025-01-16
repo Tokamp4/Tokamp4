@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Eduardo
 
-<p>Hi! I'm Eduardo, a passionate software developer with a strong focus on understanding and optimizing the potential of computing technologies. I have developed programming skills across various domains, including web development, database management, and mobile application development. </p>
+<p>I'm a passionate software developer with a strong focus on understanding and optimizing the potential of computing technologies. I have developed programming skills across various domains, including web development, database management, and mobile application development. </p>
 
 ## Languages and Tools
 
