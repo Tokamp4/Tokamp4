@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Eduardo
+# Greetings👋, I'm Eduardo
 
 <p>I'm a passionate software developer with a strong focus on understanding and optimizing the potential of computing technologies. I have developed programming skills across various domains, including web development, database management, and mobile application development. </p>
 
