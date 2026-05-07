@@ -9,9 +9,6 @@
 
 ## 🛠️ Technologies & Tools
 
-Let's use a table layout instead, which is the most reliable way to display icons side by side in GitHub READMEs:
-html## 🛠️ Technologies & Tools
-
 <table>
   <tr>
     <td align="center" width="80">
